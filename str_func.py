@@ -1,7 +1,7 @@
 def capitalize_string(input_string):
     # Приводим строку к верхнему регистру
-    return input_string.upper(wefvf)
-
+    return input_string.upper()
+"""исправлен баг"""
 
 def capitalize_words(input_string):
     """
